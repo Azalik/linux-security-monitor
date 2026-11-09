@@ -39,7 +39,7 @@ GRANT ALL PRIVILEGES ON DATABASE sys_monitor TO ilyas;
 ## ⚙️ Installation & Usage
 1. Clone the repository:
 bash
-git clone https://github.com/your_username/linux-security-monitor.git
+git clone https://github.com/Azalik/linux-security-monitor.git
 cd linux-security-monitor
 
 2. Create and activate a virtual environment:
